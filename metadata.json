@@ -1,0 +1,6 @@
+{
+  "name": "2Copy of Image Background Remover by Color",
+  "description": "An interactive tool to remove backgrounds from images by selecting a color. Upload an image, choose a color from the auto-generated palette, and download the result as a transparent PNG.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
