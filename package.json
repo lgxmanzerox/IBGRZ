@@ -1,3 +1,4 @@
+json
 {
   "name": "2copy-of-image-background-remover-by-color",
   "private": true,
@@ -10,8 +11,7 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-dom/client": "18.2.0",
-    "react/jsx-runtime": "18.2.0"
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
